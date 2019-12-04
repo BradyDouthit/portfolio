@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #ff3b3b;
 }
 
 .text-primary {
@@ -98,8 +98,8 @@ img::-moz-selection {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #ff3b3b !important;
+  border-color: #ff3b3b !important;
   color: white;
 }
 
@@ -128,7 +128,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #ff3b3b;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -246,7 +246,7 @@ header.masthead .intro-text .intro-heading {
   height: 100%;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(255, 59, 59, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
